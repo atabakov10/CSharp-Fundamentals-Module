@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\bin\Debug\net5.0\TenthExc.exe
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\bin\Debug\net5.0\TenthExc.deps.json
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\bin\Debug\net5.0\TenthExc.runtimeconfig.json
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\bin\Debug\net5.0\TenthExc.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\bin\Debug\net5.0\TenthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\bin\Debug\net5.0\ref\TenthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\bin\Debug\net5.0\TenthExc.pdb
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.AssemblyInfo.cs
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\ref\TenthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.pdb
+C:\Users\Angel\source\repos\FirstLecture\TenthExc\obj\Debug\net5.0\TenthExc.genruntimeconfig.cache

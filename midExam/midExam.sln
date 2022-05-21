@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "midExam", "midExam\midExam.csproj", "{92BA6CF9-ADF7-4787-BC8D-7F2516CA7967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. The Angry Cat", "03. The Angry Cat\03. The Angry Cat.csproj", "{96CA8C3A-07F0-4D0C-9438-BF083BCE653F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BA6CF9-ADF7-4787-BC8D-7F2516CA7967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BA6CF9-ADF7-4787-BC8D-7F2516CA7967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BA6CF9-ADF7-4787-BC8D-7F2516CA7967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BA6CF9-ADF7-4787-BC8D-7F2516CA7967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CA8C3A-07F0-4D0C-9438-BF083BCE653F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CA8C3A-07F0-4D0C-9438-BF083BCE653F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CA8C3A-07F0-4D0C-9438-BF083BCE653F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CA8C3A-07F0-4D0C-9438-BF083BCE653F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8068418A-0686-4443-B57F-D631D5900DBF}
+	EndGlobalSection
+EndGlobal

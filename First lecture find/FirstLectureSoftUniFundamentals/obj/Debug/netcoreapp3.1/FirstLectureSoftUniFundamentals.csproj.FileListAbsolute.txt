@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\bin\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.exe
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\bin\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.deps.json
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\bin\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.runtimeconfig.json
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\bin\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\bin\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.dll
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\bin\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.pdb
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.AssemblyInfo.cs
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.dll
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.pdb
+C:\Users\Angel\source\repos\FirstLecture\FirstLectureSoftUniFundamentals\obj\Debug\netcoreapp3.1\FirstLectureSoftUniFundamentals.genruntimeconfig.cache

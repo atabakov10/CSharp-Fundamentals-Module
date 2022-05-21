@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.exe
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.deps.json
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.runtimeconfig.json
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.dll
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\bin\Debug\net5.0\02. Message Decrypter.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.AssemblyInfo.cs
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.dll
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\refint\02. Message Decrypter.dll
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\02. Message Decrypter.genruntimeconfig.cache
+C:\Users\Angel\source\repos\P01.SecretChat\02. Message Decrypter\obj\Debug\net5.0\ref\02. Message Decrypter.dll

@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\bin\Debug\net5.0\ForthExc.exe
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\bin\Debug\net5.0\ForthExc.deps.json
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\bin\Debug\net5.0\ForthExc.runtimeconfig.json
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\bin\Debug\net5.0\ForthExc.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\bin\Debug\net5.0\ForthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\bin\Debug\net5.0\ref\ForthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\bin\Debug\net5.0\ForthExc.pdb
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.AssemblyInfo.cs
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ref\ForthExc.dll
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.pdb
+C:\Users\Angel\source\repos\FirstLecture\ForthExc\obj\Debug\net5.0\ForthExc.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hA/q2Y9P07QuDiU3ilq63Pp9vmlM25qE/7VyvAzweeXwhcbkStNzd0IimnSKOI585MBtHO945TN0ZJPXKHmsBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angel\\source\\repos\\P01.SecretChat\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Angel\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

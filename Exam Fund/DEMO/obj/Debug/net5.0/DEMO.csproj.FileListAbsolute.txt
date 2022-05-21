@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\bin\Debug\net5.0\DEMO.exe
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\bin\Debug\net5.0\DEMO.deps.json
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\bin\Debug\net5.0\DEMO.runtimeconfig.json
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\bin\Debug\net5.0\DEMO.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\bin\Debug\net5.0\DEMO.dll
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\bin\Debug\net5.0\DEMO.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.AssemblyInfo.cs
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.dll
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\refint\DEMO.dll
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\DEMO.genruntimeconfig.cache
+C:\Users\Angel\source\repos\P01.SecretChat\DEMO\obj\Debug\net5.0\ref\DEMO.dll

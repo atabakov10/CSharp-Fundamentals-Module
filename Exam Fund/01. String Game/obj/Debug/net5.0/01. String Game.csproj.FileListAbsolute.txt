@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\bin\Debug\net5.0\01. String Game.exe
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\bin\Debug\net5.0\01. String Game.deps.json
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\bin\Debug\net5.0\01. String Game.runtimeconfig.json
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\bin\Debug\net5.0\01. String Game.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\bin\Debug\net5.0\01. String Game.dll
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\bin\Debug\net5.0\01. String Game.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.AssemblyInfo.cs
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.dll
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\refint\01. String Game.dll
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\01. String Game.genruntimeconfig.cache
+C:\Users\Angel\source\repos\P01.SecretChat\01. String Game\obj\Debug\net5.0\ref\01. String Game.dll

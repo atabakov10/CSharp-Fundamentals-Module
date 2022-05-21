@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.AssemblyInfo.cs
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\bin\Debug\net5.0\03. Wild Zoo.exe
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\bin\Debug\net5.0\03. Wild Zoo.deps.json
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\bin\Debug\net5.0\03. Wild Zoo.runtimeconfig.json
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\bin\Debug\net5.0\03. Wild Zoo.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\bin\Debug\net5.0\03. Wild Zoo.dll
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\bin\Debug\net5.0\03. Wild Zoo.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.dll
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\refint\03. Wild Zoo.dll
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.pdb
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\03. Wild Zoo.genruntimeconfig.cache
+C:\Users\Angel\source\repos\P01.SecretChat\03. Wild Zoo\obj\Debug\net5.0\ref\03. Wild Zoo.dll

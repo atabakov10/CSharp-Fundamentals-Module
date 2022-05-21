@@ -1,0 +1,16 @@
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\bin\Debug\net5.0\ThirdExs.exe
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\bin\Debug\net5.0\ThirdExs.deps.json
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\bin\Debug\net5.0\ThirdExs.runtimeconfig.json
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\bin\Debug\net5.0\ThirdExs.runtimeconfig.dev.json
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\bin\Debug\net5.0\ThirdExs.dll
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\bin\Debug\net5.0\ref\ThirdExs.dll
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\bin\Debug\net5.0\ThirdExs.pdb
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.AssemblyInfo.cs
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.dll
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ref\ThirdExs.dll
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.pdb
+C:\Users\Angel\source\repos\FirstLecture\ThirdExs\obj\Debug\net5.0\ThirdExs.genruntimeconfig.cache
